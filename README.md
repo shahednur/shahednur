@@ -33,20 +33,20 @@ You’ll often find me exploring emerging tech, mentoring developers, contributi
 
 <div align="left" style="display: flex; flex-direction: column; gap: 20px;">
 
-<p align="left">
+<div align="left">
   <!-- Backend -->
   <h2 class="heading-element" dir="auto">⚙️ Backend Development</h2>
-  <span dir="auto">Technologies used for server-side logic, APIs, and business processes:</span><br/>
+  <p dir="auto">Technologies used for server-side logic, APIs, and business processes:</p><br/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-</p>
-<p align="left">
+</div>
+<div align="left">
   <!-- Frontend -->
   <h2 class="heading-element" dir="auto">🚀 Frontend Development</h2>
-  <span dir="auto">Here are the technologies I use for building user interfaces and client-side applications:</span><br/>
+  <p dir="auto">Here are the technologies I use for building user interfaces and client-side applications:</p><br/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
@@ -55,11 +55,11 @@ You’ll often find me exploring emerging tech, mentoring developers, contributi
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-</p>
-<p align="left">
+</div>
+<div align="left">
   <!-- DevOps & Cloud -->
   <h2 class="heading-element" dir="auto">☁️DevOps & Cloud:</h2>
-  <span dir="auto">Platforms and tools for deploying and hosting applications:</span><br/>
+  <p dir="auto">Platforms and tools for deploying and hosting applications:</p><br/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
@@ -68,18 +68,18 @@ You’ll often find me exploring emerging tech, mentoring developers, contributi
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
-</p>
-<p align="left">
+</div>
+<div align="left">
   <!-- Databases & Messaging -->
   <h2 class="heading-element" dir="auto">🗄️ Databases & Messaging:</h2>
-  <span dir="auto">Databases and data storage solutions I work with:</span><br/>
+  <p dir="auto">Databases and data storage solutions I work with:</p><br/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka">
-</p>
+</div>
 
 </div>
 
