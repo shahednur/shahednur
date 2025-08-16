@@ -2,7 +2,7 @@
 <h3 align="center">
 Full-Stack Microservices Engineer | Cloud-Native Backend (Java/Spring Boot, PHP/Laravel) | Docker, Kubernetes, CI/CD | AI-Powered Applications | React/Vue Frontend
 </h3>
-
+<hr/>
 ## About Me
 
 👋 Hi, I'm Shahed Nur — a Full-Stack Microservices Engineer, Cloud-Native Backend Developer, and AI Enthusiast from Bangladesh 🇧🇩. I specialize in building scalable, cloud-native applications and microservices using technologies like **Java/Spring Boot, PHP/Laravel, Docker, Kubernetes, and AI-powered solutions**.  
@@ -33,7 +33,7 @@ You’ll often find me exploring emerging tech, mentoring developers, contributi
 
 <div align="left" style="display: flex; flex-direction: column; gap: 20px;">
 
-<p align="center">
+<p align="left">
   <!-- Backend -->
   <b>Backend:</b> <br>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
@@ -42,8 +42,8 @@ You’ll often find me exploring emerging tech, mentoring developers, contributi
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
 </p>
-
-<p align="center">
+---
+<p align="left">
   <!-- Frontend -->
   <b>Frontend:</b> <br>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
@@ -55,8 +55,8 @@ You’ll often find me exploring emerging tech, mentoring developers, contributi
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
 </p>
-
-<p align="center">
+---
+<p align="left">
   <!-- DevOps & Cloud -->
   <b>DevOps & Cloud:</b> <br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
@@ -68,8 +68,8 @@ You’ll often find me exploring emerging tech, mentoring developers, contributi
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
 </p>
-
-<p align="center">
+---
+<p align="left">
   <!-- Databases & Messaging -->
   <b>Databases & Messaging:</b> <br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
@@ -79,7 +79,6 @@ You’ll often find me exploring emerging tech, mentoring developers, contributi
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka">
 </p>
-
 
 </div>
 
