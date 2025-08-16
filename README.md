@@ -86,15 +86,15 @@ You’ll often find me exploring emerging tech, mentoring developers, contributi
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=shahednur&show_icons=true&locale=en&layout=compact" alt="shahednur" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahednur&show_icons=true&locale=en&layout=compact" alt="shahednur" />
 </p>
-
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahednur&" alt="shahednur" />
 </p>
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahednur&show_icons=true&locale=en&layout=compact" alt="shahednur" />
+</p>
 ---
 ## 🏆 GitHub Trophies
 <p align="center">
