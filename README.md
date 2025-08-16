@@ -3,10 +3,13 @@
 Full-Stack Microservices Engineer | Cloud-Native Backend (Java/Spring Boot, PHP/Laravel) | Docker, Kubernetes, CI/CD | AI-Powered Applications | React/Vue Frontend
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shahednur&label=Profile%20views&color=0e75b6&style=flat" alt="shahednur" />
-  <img src="https://github-profile-trophy.vercel.app/?username=shahednur&margin-w=15&margin-h=15" alt="shahednur" />
-</p>
+## About Me
+
+👋 Hi, I'm Shahed Nur — a Full-Stack Microservices Engineer, Cloud-Native Backend Developer, and AI Enthusiast from Bangladesh 🇧🇩. I specialize in building scalable, cloud-native applications and microservices using technologies like **Java/Spring Boot, PHP/Laravel, Docker, Kubernetes, and AI-powered solutions**.  
+
+With a strong foundation in **React.js, Vue.js, Next.js, JavaScript, and Python**, I bridge backend and frontend development to deliver full-fledged applications. I’m passionate about **automation, cloud infrastructure, DevOps practices, and solving real-world problems with intelligent systems**.  
+
+You’ll often find me exploring emerging tech, mentoring developers, contributing to open-source projects, and designing AI-powered solutions for modern applications.
 
 ---
 
@@ -28,7 +31,7 @@ Full-Stack Microservices Engineer | Cloud-Native Backend (Java/Spring Boot, PHP/
 
 <h3 align="center">💻 Languages & Tools</h3>
 
-<div align="center" style="display: flex; flex-direction: column; gap: 20px;">
+<div align="left" style="display: flex; flex-direction: column; gap: 20px;">
 
 <p align="center">
   <!-- Backend -->
@@ -90,4 +93,11 @@ Full-Stack Microservices Engineer | Cloud-Native Backend (Java/Spring Boot, PHP/
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahednur&" alt="shahednur" />
+</p>
+
+---
+🏆 GitHub Trophies
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shahednur&label=Profile%20views&color=0e75b6&style=flat" alt="shahednur" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shahednur&margin-w=15&margin-h=15" alt="shahednur" />
 </p>
