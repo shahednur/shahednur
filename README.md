@@ -29,23 +29,24 @@ You’ll often find me exploring emerging tech, mentoring developers, contributi
 
 ---
 
-<h3 align="center">💻 Languages & Tools</h3>
+<h1 align="left">💻 Languages & Tools</h1>
 
 <div align="left" style="display: flex; flex-direction: column; gap: 20px;">
 
 <p align="left">
   <!-- Backend -->
-  <b>Backend:</b> <br>
+  <h2 class="heading-element" dir="auto">⚙️ Backend Development</h2>
+  <span dir="auto">Technologies used for server-side logic, APIs, and business processes:</span>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
 </p>
----
 <p align="left">
   <!-- Frontend -->
-  <b>Frontend:</b> <br>
+  <h2 class="heading-element" dir="auto">🚀 Frontend Development</h2>
+  <span dir="auto">Here are the technologies I use for building user interfaces and client-side applications:</span>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
@@ -58,7 +59,8 @@ You’ll often find me exploring emerging tech, mentoring developers, contributi
 ---
 <p align="left">
   <!-- DevOps & Cloud -->
-  <b>DevOps & Cloud:</b> <br>
+  <h2 class="heading-element" dir="auto">☁️DevOps & Cloud:</h2>
+  <span dir="auto">Platforms and tools for deploying and hosting applications:</span>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
@@ -71,7 +73,8 @@ You’ll often find me exploring emerging tech, mentoring developers, contributi
 ---
 <p align="left">
   <!-- Databases & Messaging -->
-  <b>Databases & Messaging:</b> <br>
+  <h2 class="heading-element" dir="auto">🗄️ Databases & Messaging:</h2>
+  <span dir="auto">Databases and data storage solutions I work with:</span>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
@@ -95,7 +98,7 @@ You’ll often find me exploring emerging tech, mentoring developers, contributi
 </p>
 
 ---
-🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shahednur&label=Profile%20views&color=0e75b6&style=flat" alt="shahednur" />
   <img src="https://github-profile-trophy.vercel.app/?username=shahednur&margin-w=15&margin-h=15" alt="shahednur" />
