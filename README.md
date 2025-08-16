@@ -3,7 +3,7 @@
 Full-Stack Microservices Engineer | Cloud-Native Backend (Java/Spring Boot, PHP/Laravel) | Docker, Kubernetes, CI/CD | AI-Powered Applications | React/Vue Frontend
 </h3>
 <hr/>
-## About Me
+
 
 👋 Hi, I'm Shahed Nur — a Full-Stack Microservices Engineer, Cloud-Native Backend Developer, and AI Enthusiast from Bangladesh 🇧🇩. I specialize in building scalable, cloud-native applications and microservices using technologies like **Java/Spring Boot, PHP/Laravel, Docker, Kubernetes, and AI-powered solutions**.  
 
@@ -95,7 +95,9 @@ You’ll often find me exploring emerging tech, mentoring developers, contributi
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahednur&show_icons=true&locale=en&layout=compact" alt="shahednur" />
 </p>
+
 ---
+
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shahednur&label=Profile%20views&color=0e75b6&style=flat" alt="shahednur" />
